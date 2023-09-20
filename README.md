@@ -1,7 +1,7 @@
 # mi-portafolio-web
 # My Portfolio
 
-Welcome to my personal portfolio website repository. This website showcases my skills and experience as a web developer. You can visit the live site [here](#add-link-to-live-site).
+Welcome to my personal portfolio website repository. This website showcases my skills and experience as a web developer.
 
 ## Table of Contents
 - [About Me](#about-me)
